@@ -1,2 +1,2 @@
 # leetcode
-Main is all easy problems, Medium is all medium problems, and Hard is all hard problems.
+Main branch is all easy problems, Medium branch is all medium problems, and Hard branch is all hard problems.
